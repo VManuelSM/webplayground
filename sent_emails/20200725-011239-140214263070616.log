@@ -1,0 +1,26 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: 
+ =?utf-8?q?Restablecimiento_de_la_contrase=C3=B1a_en_localhost=3A8000_?=
+From: webmaster@localhost
+To: panchito@mail.com
+Date: Sat, 25 Jul 2020 01:12:39 -0000
+Message-ID: <159563955915.3854.2374996291898615458@1.0.0.127.in-addr.arpa>
+
+
+Usted está recibiendo este correo electrónico porque ha solicitado un restablecimiento de contraseña para la cuenta de usuario en localhost:8000.
+
+Por favor visite la página que se muestra a continuación y elija una nueva contraseña:
+
+http://localhost:8000/accounts/reset/NQ/5ih-6a9ad640b3b63528ecf0/
+
+Your username, in case you’ve forgotten: panchito
+
+¡Gracias por usar nuestro sitio!
+
+El equipo de localhost:8000
+
+
+
+-------------------------------------------------------------------------------
